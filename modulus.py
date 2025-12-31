@@ -1,0 +1,1 @@
+print("modulus:",10%3)
