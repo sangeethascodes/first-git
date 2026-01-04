@@ -1,1 +1,1 @@
-print("modulus:",10%3)
+print("modulus:",10%5)
